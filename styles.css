@@ -1,0 +1,29 @@
+html, body{
+    background-color: rgba(87, 4, 4, 0.759); 
+    color: bisque;
+}
+
+.row, col{
+    background-color: rgba(87, 4, 4, 0.759); 
+    color: bisque;
+    padding: 10px;
+}
+
+.titulo{
+    text-align: center;
+    background-color: rgb(31, 27, 27);
+    font-size: 35px;
+    padding: 20px;
+    color: rgb(245, 231, 220);
+}
+
+.carta{
+    position: relative;
+    width: 150px;
+    left: 100px;
+    margin-left: -75px;
+}
+
+#computadora-cartas, #jugador-cartas{
+    height: 240px;
+}
